@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Benjamin 👋
 
-<!--
-**BenjaminLRD/BenjaminLRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd year Computer Science Engineering student at Thapar Institute of Engineering and Technology.
 
-Here are some ideas to get you started:
+I’m currently learning:
+- Data Structures & Algorithms
+- C/C++ Programming
+- Python
+- HTML
+- C#
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub contains my practice programs, assignments, and small projects related to DSA and core programming.
+
+Always learning. Always building.
